@@ -56,13 +56,13 @@ function Projects() {
                                     }}
                                 >
                                     <Paper className='paper' elevation={3} >
-                                        <h3>Project Name: Students Log</h3>
-                                        <p>Description: A students log web applcation, where you can add, view and delete students details.</p>
-                                        <p>Language Used: Python, Django, React</p>
+                                        <h3>Project Name: Personal Portfolio</h3>
+                                        <p>Description: A personal portfolio to showcase your skills.</p>
+                                        <p>Language Used: React</p>
                                         <Grid container rowSpacing={2} columnSpacing={{ xs: 1 }}>
-                                            {/* <Grid item xs={6}>
-                                                <Button >Demo</Button>
-                                            </Grid> */}
+                                            <Grid item xs={6}>
+                                                <Button href='https://dev-ar7.github.io/portfolio'>Demo</Button>
+                                            </Grid>
                                             <Grid item xs={6}>
                                                 <Button href='https://github.com/dev-ar7/StudentsLog-Django-React' ><FaGithub className='icon' /></Button>
                                             </Grid>
