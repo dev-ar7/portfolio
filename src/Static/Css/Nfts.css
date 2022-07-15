@@ -1,0 +1,15 @@
+.assets {
+    margin-top: 25px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.assets .MuiPaper-root {
+    margin-bottom: 15px;
+    width: auto;
+    background-color: #fef6da;
+}
+
+.heading {
+    color: #fef6da;
+}
